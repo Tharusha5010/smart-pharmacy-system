@@ -9,6 +9,25 @@ The **Smart Pharmacy Management System** streamlines daily pharmacy operations. 
 
 ---
 
+## 👥 Project Team & Modules
+
+* **Tharusha Wijesekara (Lead)** - `ICT/25/954` - *System Architecture, Main Engine & Integration*
+* **Maleesha Senura** - `ICT/25/954` - *Staff & Authentication Module & Co-Integration*
+* **Sachintha Mihiranga** - `ICT/25/893` - *Inventory & Stock Management Module*
+* **Wimansha Wijesinghe** - `ICT/25/954` - *Billing & Sales Operations Module*
+* **Sachintha Dilsara** - `ICT/25/954` - *Cancellations & Notification Alerts Module*
+
+---
+
+## 🧩 OOP Concepts Covered
+
+* **Encapsulation:** Used in Model classes (`Medicine`, `StaffMember`, `Bill`, `BillItem`) with `private` fields and public Getters/Setters.
+* **Inheritance:** Custom exception classes extending Java's standard `Exception` class (e.g., `ExpiredMedicineException`, `OutOfStockException`).
+* **Polymorphism & Abstraction:** Service layer abstractions for file handling, billing workflows, and dynamic alert evaluations.
+* **Modular Software Design:** Clean separation of concerns into distinct packages (`models`, `exceptions`, `services`, `main`).
+
+---
+
 ## ✨ Key Features
 
 * **Role-Based Authentication:** Distinct access permissions for Cashiers and Owners.
@@ -28,16 +47,6 @@ The **Smart Pharmacy Management System** streamlines daily pharmacy operations. 
 * **Language:** Java (JDK 8 or higher)
 * **Storage:** CSV (Comma Separated Values)
 * **Architecture Pattern:** Modular OOP Hierarchy (`models`, `exceptions`, `services`, `main`)
-
----
-
-## 👥 Project Team
-
-* **Tharusha Wijesekara** - Project Lead / Integration & Main Engine
-* **Maleesha Senura** - Staff & Authentication Module
-* **Sachintha Mihiranga** - Inventory & Stock Management
-* **Wimansha Wijesinghe** - Billing & Sales Operations
-* **Sachintha Dilsara** - Cancellations & Notification Alerts
 
 ---
 

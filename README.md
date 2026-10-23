@@ -33,11 +33,11 @@ The **Smart Pharmacy Management System** streamlines daily pharmacy operations. 
 
 ## 👥 Project Team
 
-* **Tharusha** - Project Lead / Integration & Main Engine
-* **Team Member 1** - Staff & Authentication Module
-* **Team Member 2** - Inventory & Stock Management
-* **Team Member 3** - Billing & Sales Operations
-* **Team Member 4** - Cancellations & Notification Alerts
+* **Tharusha Wijesekara** - Project Lead / Integration & Main Engine
+* **Maleesha Senura** - Staff & Authentication Module
+* **Sachintha Mihiranga** - Inventory & Stock Management
+* **Wimansha Wijesinghe** - Billing & Sales Operations
+* **Sachintha Dilsara** - Cancellations & Notification Alerts
 
 ---
 

@@ -54,4 +54,4 @@ The **Smart Pharmacy Management System** streamlines daily pharmacy operations. 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Tharusha5010/smart-pharmacy-system.git](https://github.com/Tharusha5010/smart-pharmacy-system.git)
+   git clone https://github.com/Tharusha5010/smart-pharmacy-system.git

@@ -15,7 +15,7 @@ The **Smart Pharmacy Management System** streamlines daily pharmacy operations. 
 - **Maleesha Senura** - `ICT/25/936` - *Staff & Authentication Module & Co-Integration*
 - **Sachintha Mihiranga (Core Setup)** - `ICT/25/893` - *Repository Setup, Scaffolding & Inventory Module*
 - **Wimansha Wijesinghe** - `ICT/25/956` - *Billing & Sales Operations Module*
-- **Sachintha Dilsara** - `ICT/25/954` - *Cancellations & Notification Alerts Module*
+- **Sachintha Dilsara** - `ICT/25/860` - *Cancellations & Notification Alerts Module*
 
 ---
 
